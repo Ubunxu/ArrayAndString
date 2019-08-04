@@ -1,0 +1,7 @@
+F:\visual studio pro2017\visualStudioprojects\schoolWork0626_1\schoolWork0626_1\bin\Debug\schoolWork0626_1.exe.config
+F:\visual studio pro2017\visualStudioprojects\schoolWork0626_1\schoolWork0626_1\bin\Debug\schoolWork0626_1.exe
+F:\visual studio pro2017\visualStudioprojects\schoolWork0626_1\schoolWork0626_1\bin\Debug\schoolWork0626_1.pdb
+F:\visual studio pro2017\visualStudioprojects\schoolWork0626_1\schoolWork0626_1\obj\Debug\schoolWork0626_1.csprojAssemblyReference.cache
+F:\visual studio pro2017\visualStudioprojects\schoolWork0626_1\schoolWork0626_1\obj\Debug\schoolWork0626_1.csproj.CoreCompileInputs.cache
+F:\visual studio pro2017\visualStudioprojects\schoolWork0626_1\schoolWork0626_1\obj\Debug\schoolWork0626_1.exe
+F:\visual studio pro2017\visualStudioprojects\schoolWork0626_1\schoolWork0626_1\obj\Debug\schoolWork0626_1.pdb
